@@ -1,5 +1,5 @@
 # YetGenCorePhyton
-Bu repo yetgen jump core eğitimi için açılmıştır
+Bu repo yetgen core eğitimi için açılmıştır
 1. Hafta
 2. Hafta
 3. Hafta
