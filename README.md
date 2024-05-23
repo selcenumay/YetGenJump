@@ -1,4 +1,4 @@
-# YetGenJump
+# YetGenCorePhyton
 Bu repo yetgen jump core eğitimi için açılmıştır
 1. Hafta
 2. Hafta
